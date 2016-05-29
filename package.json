@@ -1,5 +1,5 @@
 {
-  "name": "mode_modules-list",
+  "name": "node_modules-list",
   "version": "0.1.0",
   "scripts": {
     "main": "index.js"
